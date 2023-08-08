@@ -142,7 +142,7 @@
 					<registry>ghcr.io</registry>
 					<images>
 						<image>
-							<name>Momo202307/hello-app</name>
+							<name>momo202307/hello-app</name>
 							<build>
 								<tags>
 									<tag>${image.tag}</tag>
